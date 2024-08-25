@@ -13,3 +13,4 @@
 - Неавторизованные пользователи должны перенаправляться на главную страницу.
 
 
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)

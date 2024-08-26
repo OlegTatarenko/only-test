@@ -15,5 +15,4 @@
 ## Обзор наполнения
 
 <summary> <h4> Редактирование профиля </h4> </summary>
-<img src="https://github.com/OlegTatarenko/only-test/blob/master/video/profile.gif" width="640" height="400">
 <img src="https://github.com/OlegTatarenko/only-gif/blob/master/profile.gif" width="640" height="400">

@@ -9,6 +9,7 @@ if (empty($_SESSION['auth'])) {
 ';
 } else {
     $main = '        
+    <p class="text-center">Главная</p>        
     <div class="d-grid gap-2 col-3 mx-auto mt-5">
         <a class="btn btn-primary" href="/profile" role="button">Мой профиль</a>
         <a class="btn btn-primary" href="/logout" role="button">Выйти</a>

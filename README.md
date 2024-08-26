@@ -12,5 +12,7 @@
 
 - Неавторизованные пользователи должны перенаправляться на главную страницу.
 
+## Обзор наполнения
 
-[![Watch the video](https://raw.githubusercontent.com/OlegTatarenko/only-test/master/video/edit_profile.jpg)](https://raw.githubusercontent.com/OlegTatarenko/only-test/master/video/edit_profile.mp4)
+<summary> <h4> Редактирование профиля </h4> </summary>
+<img src="https://github.com/OlegTatarenko/only-test/master/video/profile.gif">

@@ -39,7 +39,7 @@ if (empty($_SESSION['auth'])) {
 
     $main = '                   
         <div class="d-grid gap-2 col-3 mx-auto" >
-        <p class="text-center bg-danger text-light">'. $flash .'</p>
+        <p class="text-center bg-danger text-light rounded-3">'. $flash .'</p>
             <form action="login" method="POST">
                 <div class="mb-3">
                     <label for="login" class="form-label" >Телефон или email</label>

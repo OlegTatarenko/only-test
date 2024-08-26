@@ -11,7 +11,7 @@
     </head>
 	<body>
 		<header>
-            <h5 class="text-center m-3">Тестовое задание</h5>
+            <h5 class="text-center m-3"></h5>
 		</header>
 
 		<main>
@@ -19,7 +19,7 @@
 		</main>
 
 		<footer>
-            <p class="text-center m-3">Разработано <a href="https://t.me/OlegTatarenko">@OlegTatarenko</a></p>
+            <p class="text-center m-3"></p>
         </footer>
 
 	</body>

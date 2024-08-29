@@ -52,9 +52,6 @@ if (empty($_SESSION['auth'])) {
                 <button name="submit" type="submit" class="btn btn-primary" value="true">Войти</button>
             </form>
             <a class="btn btn-primary" href="/" role="button">На главную</a>
-            <div id="captcha-container" class="smart-captcha" data-sitekey="ysc1_Ar1pFMLr9W6OSb2aILLtyl7rAsNdMfagvhXwhGd5200e2978">
-                <input type="hidden" name="smart-token" value="bpnf1t0jhkh2021atme4">
-            </div>
         </div>
         
         ';
